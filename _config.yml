@@ -1,0 +1,8 @@
+# Site settings
+title: NF's site
+github_username: nicholasfriesner
+description: Enter description
+
+# Build settings
+markdown: kramdown
+theme: minima
