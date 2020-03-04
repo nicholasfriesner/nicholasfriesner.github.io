@@ -6,4 +6,3 @@ description: Enter description
 # Build settings
 markdown: kramdown
 theme: modernist
-layout: sidebar
