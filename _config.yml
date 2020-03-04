@@ -5,4 +5,4 @@ description: Enter description
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
