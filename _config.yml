@@ -5,5 +5,5 @@ description: Enter description
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: modernist
 layout: sidebar
