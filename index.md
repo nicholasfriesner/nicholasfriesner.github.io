@@ -1,11 +1,11 @@
 ---
 # This file can be blank
 layout: home
-title: CV
 ---
 
 ## LIBRARY EXPERIENCE  
 ---
+
 ### Brown University Library (9/2017-present)
 > **Library Assessment/Office of the University Librarian, Senior Library Specialist (9/2019-)**
 > - Assist in creating and tracking metrics to align library operations with the Strategic Plan 
@@ -24,11 +24,13 @@ title: CV
 > - In professional development program with the Senior Scholarly Resources Librarian as a mentor 
 > - Participated in the ISNI pilot program for new forms of authority records 
 
+
 ### Yale Divinity School Library (9/2009-5/2011)
 > **Special Collections, Student Assistant**
 > - Collected and evaluated research materials for patrons, and digitized those materials for off-site scholars 
 > - Processed materials for long-term digitization projects 
 > - Organized donations to the library and catalogued their contents 
+
 
 ### Johns Hopkins University (2/2006-6/2009)
 > **Catalog Maintenance Department, Library Assistant II**
