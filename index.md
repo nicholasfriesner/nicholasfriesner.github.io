@@ -10,14 +10,20 @@ title: CV
 
 ### Brown University Library (9/2017-present)
 
-> _**Library Assessment/Office of the University Librarian, Senior Library Specialist (9/2019-)**_
->   _Assist in creating and tracking metrics to align library operations with the Strategic Plan_
->   Perform internal studies on library services and usage, including stacks maintenance, circulation, physical space usage, collection composition for Collections Ecosystem working group
->   Analyze budget usage and create reports with comparisons to peer institutions
->   Organize, archive, and disperse library operational data
->   Perform routine assessment of LibInsight tools, including analyze LibChat data using topic modeling and text mining tools to suggest improvements to library website 
->   Serve on Data Cookbook working group to design tools to analyze collections for Academic Engagement Librarians 
->   Serve on Project Management Software working group to pilot management tools and make recommendation for library-wide purchase 
+> **Library Assessment/Office of the University Librarian, Senior Library Specialist (9/2019-)**
+>> Assist in creating and tracking metrics to align library operations with the Strategic Plan
+>>
+>> Perform internal studies on library services and usage, including stacks maintenance, circulation, physical space usage, collection composition for Collections Ecosystem working group
+>>
+>> Analyze budget usage and create reports with comparisons to peer institutions
+>>
+>> Organize, archive, and disperse library operational data
+>>
+>> Perform routine assessment of LibInsight tools, including analyze LibChat data using topic modeling and text mining tools to suggest improvements to library website 
+>>
+>> Serve on Data Cookbook working group to design tools to analyze collections for Academic Engagement Librarians 
+>>
+>> Serve on Project Management Software working group to pilot management tools and make recommendation for library-wide purchase 
 
 >**Metadata Production, Senior Library Specialist (9/2017-9/2019)**
 
