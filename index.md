@@ -1,6 +1,7 @@
 ---
 # This file can be blank
 layout: home
+title: CV
 ---
 
 ## LIBRARY EXPERIENCE  
