@@ -4,8 +4,7 @@ layout: home
 title: CV
 ---
 
-## LIBRARY EXPERIENCE  
----
+## LIBRARY EXPERIENCE  ---
 
 ### Brown University Library (9/2017-present)
 **Library Assessment/Office of the University Librarian, Senior Library Specialist (9/2019-)**
