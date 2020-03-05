@@ -6,7 +6,7 @@ layout: home
 
 ## LIBRARY EXPERIENCE  
 ---
-###Brown University Library
+### Brown University Library (9/2017-present)
 **Library Assessment/Office of the University Librarian, Senior Library Specialist (9/2019-)**
 - Assist in creating and tracking metrics to align library operations with the Strategic Plan 
 - Perform internal studies on library services and usage, including stacks maintenance, circulation, physical space usage, collection composition for Collections Ecosystem working group
@@ -24,13 +24,13 @@ layout: home
 - In professional development program with the Senior Scholarly Resources Librarian as a mentor 
 - Participated in the ISNI pilot program for new forms of authority records 
 
-###Yale Divinity School Library (9/2009-5/2011)
+### Yale Divinity School Library (9/2009-5/2011)
 **Special Collections, Student Assistant**
 - Collected and evaluated research materials for patrons, and digitized those materials for off-site scholars 
 - Processed materials for long-term digitization projects 
 - Organized donations to the library and catalogued their contents 
 
-###Johns Hopkins University (2/2006-6/2009)**
+### Johns Hopkins University (2/2006-6/2009)
 **Catalog Maintenance Department, Library Assistant II**
 - Converted the 19th century collection card catalog to modern discovery system 
 - Was responsible for several long-term projects to shift collections to offsite storage facility 
